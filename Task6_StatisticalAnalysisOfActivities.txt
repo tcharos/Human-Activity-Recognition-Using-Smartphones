@@ -1,0 +1,20 @@
+--- Statistical Analysis per Activity ---
+                 Mean                             StdDev              \
+Signal     body_acc_x body_gyro_x total_acc_x body_acc_x body_gyro_x   
+Activity                                                               
+DOWNSTAIRS   0.002183   -0.050523    0.991595   0.377717    0.711868   
+LYING       -0.001728    0.011256    0.071710   0.036015    0.092041   
+SITTING     -0.000850   -0.010474    0.950771   0.015156    0.059806   
+STANDING     0.000354    0.001394    1.001449   0.010478    0.075598   
+UPSTAIRS    -0.003224    0.050122    0.949443   0.258872    0.589723   
+WALKING     -0.000271   -0.003691    0.995493   0.228925    0.506082   
+
+                        
+Signal     total_acc_x  
+Activity                
+DOWNSTAIRS    0.377792  
+LYING         0.141267  
+SITTING       0.104541  
+STANDING      0.025349  
+UPSTAIRS      0.262396  
+WALKING       0.230328  
